@@ -1,0 +1,2 @@
+shape R rectangle
+motion R 20 440 70 120 60 0 0 255      50 440 250 120 60 0 0 255
