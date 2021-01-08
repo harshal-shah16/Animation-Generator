@@ -50,13 +50,13 @@ java -jar Animation-Generator.jar -in big-bang-big-crunch.txt -speed 50 -view vi
 
 ### Input Text Files
 1. The name of the input text file can be changed to any of the text files given in the repo
-	a. hanoi.txt
-	b. toh-3.txt
-	c. toh-5.txt
-	d. toh-8.txt
-	e. toh-12.txt
-	f. buildings.txt
-	g. smalldemo.txt
+	* hanoi.txt
+	* toh-3.txt
+	* toh-5.txt
+	* toh-8.txt
+	* toh-12.txt
+	* buildings.txt
+	* smalldemo.txt
 	
 ### Input Arguments
 Besides providing name of the text file,  we have two more arguments
