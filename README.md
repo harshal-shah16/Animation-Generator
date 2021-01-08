@@ -17,8 +17,16 @@ Playing Animation
 ![image](https://user-images.githubusercontent.com/29174853/103983205-da813100-5152-11eb-8311-7a6b7f66b806.png)
 
 
-Some other animations that can played. Input text files provided in the repo
+Following are GIFs of some animations that can run through the applications. Input text files provided in the repo
+
+
 ![big-bang-big-crunch](https://user-images.githubusercontent.com/29174853/103983407-2fbd4280-5153-11eb-82ab-b90e27899cb1.gif)
+
+![night](https://user-images.githubusercontent.com/29174853/103983557-71e68400-5153-11eb-8614-83776d80cb99.gif)
+
+![toh-5](https://user-images.githubusercontent.com/29174853/103983611-87f44480-5153-11eb-9d24-4acbe732e817.gif)
+
+![smalldemo](https://user-images.githubusercontent.com/29174853/103983618-8d518f00-5153-11eb-8f51-19d5aa279006.gif)
 
 
 
