@@ -10,7 +10,15 @@ Input text files contain details of shapes that would be used to convert them in
 5. Clicking on File->Save tabs on top-left corner allows to save the animation in text format
 
 ### Application Screenshots
+Start Screen
 ![image](https://user-images.githubusercontent.com/29174853/103982832-41eab100-5152-11eb-921c-0f13387148bb.png)
+
+Playing Animation
+![image](https://user-images.githubusercontent.com/29174853/103983205-da813100-5152-11eb-8311-7a6b7f66b806.png)
+
+
+Some other animations that can played. Input text files provided in the repo
+![big-bang-big-crunch](https://user-images.githubusercontent.com/29174853/103983407-2fbd4280-5153-11eb-82ab-b90e27899cb1.gif)
 
 
 
