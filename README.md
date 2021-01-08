@@ -50,23 +50,23 @@ java -jar Animation-Generator.jar -in big-bang-big-crunch.txt -speed 50 -view vi
 
 ### Input Text Files
 1. The name of the input text file can be changed to any of the text files given in the repo
-	* hanoi.txt
-	* toh-3.txt
-	* toh-5.txt
-	* toh-8.txt
-	* toh-12.txt
-	* buildings.txt
-	* smalldemo.txt
+* hanoi.txt
+* toh-3.txt
+* toh-5.txt
+* toh-8.txt
+* toh-12.txt
+* buildings.txt
+* smalldemo.txt
 	
 ### Input Arguments
 Besides providing name of the text file,  we have two more arguments
 1. speed of the animation (50 recommended)
 2. view : 
-visual : Animation would be played in Java GUI window 
-java -jar Animation-Generator.jar -in big-bang-big-crunch.txt -speed 50 -view visual
+* visual : Animation would be played in Java GUI window 
+	*java -jar Animation-Generator.jar -in big-bang-big-crunch.txt -speed 50 -view visual
 		
-text   : Animation could be viewed in text format on the terminal 
-java -jar Animation-Generator.jar -in big-bang-big-crunch.txt -speed 50 -view text
+*text   : Animation could be viewed in text format on the terminal 
+	*java -jar Animation-Generator.jar -in big-bang-big-crunch.txt -speed 50 -view text
 	
 		  
 
