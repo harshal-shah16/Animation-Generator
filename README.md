@@ -10,7 +10,7 @@ Input text files contain details of shapes that would be used to convert them in
 5. Clicking on File->Save tabs on top-left corner allows to save the animation in text format
 
 ### Application Screenshots
-![StartScreen](/Animation-Generator/Capture_1.png?)
+![StartScreen](Capture_1.png)
 
 
 
